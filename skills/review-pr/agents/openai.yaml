@@ -1,0 +1,4 @@
+interface:
+  display_name: "Review PR"
+  short_description: "Review a pull request for merge readiness"
+  default_prompt: "Use $review-pr to review this pull request and draft actionable findings."
