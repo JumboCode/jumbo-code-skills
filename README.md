@@ -19,7 +19,7 @@ skills/
     └── agents/openai.yaml
 ```
 
-Publish this repository in the club's shared GitHub organization. Members can install each directory through their Codex skill installer or copy the skill directories into their Codex skills directory.
+Publish this repository in the club's shared GitHub organization. Members can install each directory through their Codex skill installer or copy the skill directories into their skills directory.
 
 ## Example prompts
 
