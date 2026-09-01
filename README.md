@@ -1,6 +1,6 @@
 # JumboCode Skills
 
-This repository contains reusable Codex skills for JumboCode. It starts with two skills that provide a consistent pull-request workflow across club projects while respecting each project's own instructions and CI configuration, and it can grow as the club adds other shared workflows.
+This repository contains reusable agent skills for JumboCode. It starts with two skills that provide a consistent pull-request workflow across club projects while respecting each project's own instructions and CI configuration, and it can grow as the club adds other shared workflows.
 
 ## Skills
 
