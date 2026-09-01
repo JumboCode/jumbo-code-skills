@@ -1,0 +1,4 @@
+interface:
+  display_name: "Submit PR"
+  short_description: "Validate and submit a safe pull request"
+  default_prompt: "Use $submit-pr to validate and submit my current branch as a pull request."
